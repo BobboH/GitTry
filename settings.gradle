@@ -1,0 +1,2 @@
+rootProject.name='GitTry'
+include ':app'
